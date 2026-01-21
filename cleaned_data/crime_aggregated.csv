@@ -1,0 +1,1115 @@
+county,town,year,month_num,crime_type,crime_count,population,crime_rate_per_10k
+Cheshire,Cheshire East,2022,12,Drugs,72,1000000,0.72
+Cheshire,Cheshire East,2022,12,Robbery,11,1000000,0.11
+Cheshire,Cheshire East,2022,12,Vehicle crime,62,1000000,0.62
+Cheshire,Cheshire East,2023,1,Drugs,65,1000000,0.6499999999999999
+Cheshire,Cheshire East,2023,1,Robbery,13,1000000,0.13
+Cheshire,Cheshire East,2023,1,Vehicle crime,82,1000000,0.8200000000000001
+Cheshire,Cheshire East,2023,2,Drugs,63,1000000,0.63
+Cheshire,Cheshire East,2023,2,Robbery,8,1000000,0.08
+Cheshire,Cheshire East,2023,2,Vehicle crime,64,1000000,0.64
+Cheshire,Cheshire East,2023,3,Drugs,61,1000000,0.61
+Cheshire,Cheshire East,2023,3,Robbery,14,1000000,0.13999999999999999
+Cheshire,Cheshire East,2023,3,Vehicle crime,76,1000000,0.76
+Cheshire,Cheshire East,2023,4,Drugs,73,1000000,0.73
+Cheshire,Cheshire East,2023,4,Robbery,10,1000000,0.1
+Cheshire,Cheshire East,2023,4,Vehicle crime,54,1000000,0.5399999999999999
+Cheshire,Cheshire East,2023,5,Drugs,64,1000000,0.64
+Cheshire,Cheshire East,2023,5,Robbery,13,1000000,0.13
+Cheshire,Cheshire East,2023,5,Vehicle crime,67,1000000,0.67
+Cheshire,Cheshire East,2023,6,Drugs,59,1000000,0.59
+Cheshire,Cheshire East,2023,6,Robbery,5,1000000,0.05
+Cheshire,Cheshire East,2023,6,Vehicle crime,69,1000000,0.69
+Cheshire,Cheshire East,2023,7,Drugs,76,1000000,0.76
+Cheshire,Cheshire East,2023,7,Robbery,14,1000000,0.13999999999999999
+Cheshire,Cheshire East,2023,7,Vehicle crime,63,1000000,0.63
+Cheshire,Cheshire East,2023,8,Drugs,58,1000000,0.58
+Cheshire,Cheshire East,2023,8,Robbery,13,1000000,0.13
+Cheshire,Cheshire East,2023,8,Vehicle crime,70,1000000,0.7
+Cheshire,Cheshire East,2023,9,Drugs,67,1000000,0.67
+Cheshire,Cheshire East,2023,9,Robbery,18,1000000,0.18
+Cheshire,Cheshire East,2023,9,Vehicle crime,77,1000000,0.77
+Cheshire,Cheshire East,2023,10,Drugs,86,1000000,0.86
+Cheshire,Cheshire East,2023,10,Robbery,9,1000000,0.09
+Cheshire,Cheshire East,2023,10,Vehicle crime,75,1000000,0.7499999999999999
+Cheshire,Cheshire East,2023,11,Drugs,63,1000000,0.63
+Cheshire,Cheshire East,2023,11,Robbery,5,1000000,0.05
+Cheshire,Cheshire East,2023,11,Vehicle crime,76,1000000,0.76
+Cheshire,Cheshire East,2023,12,Drugs,61,1000000,0.61
+Cheshire,Cheshire East,2023,12,Robbery,10,1000000,0.1
+Cheshire,Cheshire East,2023,12,Vehicle crime,68,1000000,0.68
+Cheshire,Cheshire East,2024,1,Drugs,61,1000000,0.61
+Cheshire,Cheshire East,2024,1,Robbery,13,1000000,0.13
+Cheshire,Cheshire East,2024,1,Vehicle crime,85,1000000,0.8500000000000001
+Cheshire,Cheshire East,2024,2,Drugs,62,1000000,0.62
+Cheshire,Cheshire East,2024,2,Robbery,13,1000000,0.13
+Cheshire,Cheshire East,2024,2,Vehicle crime,68,1000000,0.68
+Cheshire,Cheshire East,2024,3,Drugs,71,1000000,0.7100000000000001
+Cheshire,Cheshire East,2024,3,Robbery,9,1000000,0.09
+Cheshire,Cheshire East,2024,3,Vehicle crime,68,1000000,0.68
+Cheshire,Cheshire East,2024,4,Drugs,52,1000000,0.52
+Cheshire,Cheshire East,2024,4,Robbery,13,1000000,0.13
+Cheshire,Cheshire East,2024,4,Vehicle crime,57,1000000,0.5700000000000001
+Cheshire,Cheshire East,2024,5,Drugs,66,1000000,0.66
+Cheshire,Cheshire East,2024,5,Robbery,14,1000000,0.13999999999999999
+Cheshire,Cheshire East,2024,5,Vehicle crime,56,1000000,0.5599999999999999
+Cheshire,Cheshire East,2024,6,Drugs,54,1000000,0.5399999999999999
+Cheshire,Cheshire East,2024,6,Robbery,14,1000000,0.13999999999999999
+Cheshire,Cheshire East,2024,6,Vehicle crime,44,1000000,0.44
+Cheshire,Cheshire East,2024,7,Drugs,58,1000000,0.58
+Cheshire,Cheshire East,2024,7,Robbery,14,1000000,0.13999999999999999
+Cheshire,Cheshire East,2024,7,Vehicle crime,89,1000000,0.8899999999999999
+Cheshire,Cheshire East,2024,8,Drugs,61,1000000,0.61
+Cheshire,Cheshire East,2024,8,Robbery,5,1000000,0.05
+Cheshire,Cheshire East,2024,8,Vehicle crime,80,1000000,0.8
+Cheshire,Cheshire East,2024,9,Drugs,86,1000000,0.86
+Cheshire,Cheshire East,2024,9,Robbery,10,1000000,0.1
+Cheshire,Cheshire East,2024,9,Vehicle crime,52,1000000,0.52
+Cheshire,Cheshire East,2024,10,Drugs,64,1000000,0.64
+Cheshire,Cheshire East,2024,10,Robbery,16,1000000,0.16
+Cheshire,Cheshire East,2024,10,Vehicle crime,76,1000000,0.76
+Cheshire,Cheshire East,2024,11,Drugs,66,1000000,0.66
+Cheshire,Cheshire East,2024,11,Robbery,9,1000000,0.09
+Cheshire,Cheshire East,2024,11,Vehicle crime,85,1000000,0.8500000000000001
+Cheshire,Cheshire East,2024,12,Drugs,81,1000000,0.81
+Cheshire,Cheshire East,2024,12,Robbery,6,1000000,0.060000000000000005
+Cheshire,Cheshire East,2024,12,Vehicle crime,49,1000000,0.49
+Cheshire,Cheshire East,2025,1,Drugs,55,1000000,0.55
+Cheshire,Cheshire East,2025,1,Robbery,7,1000000,0.06999999999999999
+Cheshire,Cheshire East,2025,1,Vehicle crime,54,1000000,0.5399999999999999
+Cheshire,Cheshire East,2025,2,Drugs,64,1000000,0.64
+Cheshire,Cheshire East,2025,2,Robbery,5,1000000,0.05
+Cheshire,Cheshire East,2025,2,Vehicle crime,54,1000000,0.5399999999999999
+Cheshire,Cheshire East,2025,3,Drugs,110,1000000,1.1
+Cheshire,Cheshire East,2025,3,Robbery,9,1000000,0.09
+Cheshire,Cheshire East,2025,3,Vehicle crime,62,1000000,0.62
+Cheshire,Cheshire East,2025,4,Drugs,135,1000000,1.35
+Cheshire,Cheshire East,2025,4,Robbery,10,1000000,0.1
+Cheshire,Cheshire East,2025,4,Vehicle crime,60,1000000,0.6
+Cheshire,Cheshire East,2025,5,Drugs,99,1000000,0.99
+Cheshire,Cheshire East,2025,5,Robbery,12,1000000,0.12000000000000001
+Cheshire,Cheshire East,2025,5,Vehicle crime,44,1000000,0.44
+Cheshire,Cheshire East,2025,6,Drugs,100,1000000,1
+Cheshire,Cheshire East,2025,6,Robbery,16,1000000,0.16
+Cheshire,Cheshire East,2025,6,Vehicle crime,56,1000000,0.5599999999999999
+Cheshire,Cheshire East,2025,7,Drugs,99,1000000,0.99
+Cheshire,Cheshire East,2025,7,Robbery,9,1000000,0.09
+Cheshire,Cheshire East,2025,7,Vehicle crime,69,1000000,0.69
+Cheshire,Cheshire East,2025,8,Drugs,89,1000000,0.8899999999999999
+Cheshire,Cheshire East,2025,8,Robbery,17,1000000,0.17
+Cheshire,Cheshire East,2025,8,Vehicle crime,66,1000000,0.66
+Cheshire,Cheshire East,2025,9,Drugs,98,1000000,0.98
+Cheshire,Cheshire East,2025,9,Robbery,4,1000000,0.04
+Cheshire,Cheshire East,2025,9,Vehicle crime,74,1000000,0.74
+Cheshire,Cheshire East,2025,10,Drugs,99,1000000,0.99
+Cheshire,Cheshire East,2025,10,Robbery,11,1000000,0.11
+Cheshire,Cheshire East,2025,10,Vehicle crime,69,1000000,0.69
+Cheshire,Cheshire East,2025,11,Drugs,104,1000000,1.04
+Cheshire,Cheshire East,2025,11,Robbery,8,1000000,0.08
+Cheshire,Cheshire East,2025,11,Vehicle crime,46,1000000,0.46
+Cheshire,Cheshire West and Chester,2022,12,Drugs,69,1000000,0.69
+Cheshire,Cheshire West and Chester,2022,12,Robbery,9,1000000,0.09
+Cheshire,Cheshire West and Chester,2022,12,Vehicle crime,52,1000000,0.52
+Cheshire,Cheshire West and Chester,2023,1,Drugs,54,1000000,0.5399999999999999
+Cheshire,Cheshire West and Chester,2023,1,Robbery,9,1000000,0.09
+Cheshire,Cheshire West and Chester,2023,1,Vehicle crime,60,1000000,0.6
+Cheshire,Cheshire West and Chester,2023,2,Drugs,57,1000000,0.5700000000000001
+Cheshire,Cheshire West and Chester,2023,2,Robbery,13,1000000,0.13
+Cheshire,Cheshire West and Chester,2023,2,Vehicle crime,53,1000000,0.53
+Cheshire,Cheshire West and Chester,2023,3,Drugs,97,1000000,0.97
+Cheshire,Cheshire West and Chester,2023,3,Robbery,12,1000000,0.12000000000000001
+Cheshire,Cheshire West and Chester,2023,3,Vehicle crime,60,1000000,0.6
+Cheshire,Cheshire West and Chester,2023,4,Drugs,75,1000000,0.7499999999999999
+Cheshire,Cheshire West and Chester,2023,4,Robbery,14,1000000,0.13999999999999999
+Cheshire,Cheshire West and Chester,2023,4,Vehicle crime,63,1000000,0.63
+Cheshire,Cheshire West and Chester,2023,5,Drugs,66,1000000,0.66
+Cheshire,Cheshire West and Chester,2023,5,Robbery,5,1000000,0.05
+Cheshire,Cheshire West and Chester,2023,5,Vehicle crime,43,1000000,0.43
+Cheshire,Cheshire West and Chester,2023,6,Drugs,81,1000000,0.81
+Cheshire,Cheshire West and Chester,2023,6,Robbery,7,1000000,0.06999999999999999
+Cheshire,Cheshire West and Chester,2023,6,Vehicle crime,58,1000000,0.58
+Cheshire,Cheshire West and Chester,2023,7,Drugs,70,1000000,0.7
+Cheshire,Cheshire West and Chester,2023,7,Robbery,9,1000000,0.09
+Cheshire,Cheshire West and Chester,2023,7,Vehicle crime,53,1000000,0.53
+Cheshire,Cheshire West and Chester,2023,8,Drugs,70,1000000,0.7
+Cheshire,Cheshire West and Chester,2023,8,Robbery,14,1000000,0.13999999999999999
+Cheshire,Cheshire West and Chester,2023,8,Vehicle crime,46,1000000,0.46
+Cheshire,Cheshire West and Chester,2023,9,Drugs,104,1000000,1.04
+Cheshire,Cheshire West and Chester,2023,9,Robbery,15,1000000,0.15
+Cheshire,Cheshire West and Chester,2023,9,Vehicle crime,55,1000000,0.55
+Cheshire,Cheshire West and Chester,2023,10,Drugs,66,1000000,0.66
+Cheshire,Cheshire West and Chester,2023,10,Robbery,5,1000000,0.05
+Cheshire,Cheshire West and Chester,2023,10,Vehicle crime,66,1000000,0.66
+Cheshire,Cheshire West and Chester,2023,11,Drugs,72,1000000,0.72
+Cheshire,Cheshire West and Chester,2023,11,Robbery,7,1000000,0.06999999999999999
+Cheshire,Cheshire West and Chester,2023,11,Vehicle crime,46,1000000,0.46
+Cheshire,Cheshire West and Chester,2023,12,Drugs,128,1000000,1.28
+Cheshire,Cheshire West and Chester,2023,12,Robbery,5,1000000,0.05
+Cheshire,Cheshire West and Chester,2023,12,Vehicle crime,48,1000000,0.48000000000000004
+Cheshire,Cheshire West and Chester,2024,1,Drugs,83,1000000,0.83
+Cheshire,Cheshire West and Chester,2024,1,Robbery,10,1000000,0.1
+Cheshire,Cheshire West and Chester,2024,1,Vehicle crime,46,1000000,0.46
+Cheshire,Cheshire West and Chester,2024,2,Drugs,68,1000000,0.68
+Cheshire,Cheshire West and Chester,2024,2,Robbery,9,1000000,0.09
+Cheshire,Cheshire West and Chester,2024,2,Vehicle crime,43,1000000,0.43
+Cheshire,Cheshire West and Chester,2024,3,Drugs,102,1000000,1.02
+Cheshire,Cheshire West and Chester,2024,3,Robbery,12,1000000,0.12000000000000001
+Cheshire,Cheshire West and Chester,2024,3,Vehicle crime,45,1000000,0.45
+Cheshire,Cheshire West and Chester,2024,4,Drugs,67,1000000,0.67
+Cheshire,Cheshire West and Chester,2024,4,Robbery,11,1000000,0.11
+Cheshire,Cheshire West and Chester,2024,4,Vehicle crime,44,1000000,0.44
+Cheshire,Cheshire West and Chester,2024,5,Drugs,68,1000000,0.68
+Cheshire,Cheshire West and Chester,2024,5,Robbery,4,1000000,0.04
+Cheshire,Cheshire West and Chester,2024,5,Vehicle crime,46,1000000,0.46
+Cheshire,Cheshire West and Chester,2024,6,Drugs,58,1000000,0.58
+Cheshire,Cheshire West and Chester,2024,6,Robbery,6,1000000,0.060000000000000005
+Cheshire,Cheshire West and Chester,2024,6,Vehicle crime,37,1000000,0.37
+Cheshire,Cheshire West and Chester,2024,7,Drugs,66,1000000,0.66
+Cheshire,Cheshire West and Chester,2024,7,Robbery,9,1000000,0.09
+Cheshire,Cheshire West and Chester,2024,7,Vehicle crime,37,1000000,0.37
+Cheshire,Cheshire West and Chester,2024,8,Drugs,79,1000000,0.7899999999999999
+Cheshire,Cheshire West and Chester,2024,8,Robbery,19,1000000,0.19
+Cheshire,Cheshire West and Chester,2024,8,Vehicle crime,59,1000000,0.59
+Cheshire,Cheshire West and Chester,2024,9,Drugs,77,1000000,0.77
+Cheshire,Cheshire West and Chester,2024,9,Robbery,12,1000000,0.12000000000000001
+Cheshire,Cheshire West and Chester,2024,9,Vehicle crime,51,1000000,0.51
+Cheshire,Cheshire West and Chester,2024,10,Drugs,74,1000000,0.74
+Cheshire,Cheshire West and Chester,2024,10,Robbery,8,1000000,0.08
+Cheshire,Cheshire West and Chester,2024,10,Vehicle crime,61,1000000,0.61
+Cheshire,Cheshire West and Chester,2024,11,Drugs,64,1000000,0.64
+Cheshire,Cheshire West and Chester,2024,11,Robbery,7,1000000,0.06999999999999999
+Cheshire,Cheshire West and Chester,2024,11,Vehicle crime,39,1000000,0.39
+Cheshire,Cheshire West and Chester,2024,12,Drugs,92,1000000,0.92
+Cheshire,Cheshire West and Chester,2024,12,Robbery,18,1000000,0.18
+Cheshire,Cheshire West and Chester,2024,12,Vehicle crime,41,1000000,0.41000000000000003
+Cheshire,Cheshire West and Chester,2025,1,Drugs,62,1000000,0.62
+Cheshire,Cheshire West and Chester,2025,1,Robbery,9,1000000,0.09
+Cheshire,Cheshire West and Chester,2025,1,Vehicle crime,39,1000000,0.39
+Cheshire,Cheshire West and Chester,2025,2,Drugs,41,1000000,0.41000000000000003
+Cheshire,Cheshire West and Chester,2025,2,Robbery,4,1000000,0.04
+Cheshire,Cheshire West and Chester,2025,2,Vehicle crime,28,1000000,0.27999999999999997
+Cheshire,Cheshire West and Chester,2025,3,Drugs,88,1000000,0.88
+Cheshire,Cheshire West and Chester,2025,3,Robbery,9,1000000,0.09
+Cheshire,Cheshire West and Chester,2025,3,Vehicle crime,30,1000000,0.3
+Cheshire,Cheshire West and Chester,2025,4,Drugs,70,1000000,0.7
+Cheshire,Cheshire West and Chester,2025,4,Robbery,15,1000000,0.15
+Cheshire,Cheshire West and Chester,2025,4,Vehicle crime,26,1000000,0.26
+Cheshire,Cheshire West and Chester,2025,5,Drugs,75,1000000,0.7499999999999999
+Cheshire,Cheshire West and Chester,2025,5,Robbery,4,1000000,0.04
+Cheshire,Cheshire West and Chester,2025,5,Vehicle crime,40,1000000,0.4
+Cheshire,Cheshire West and Chester,2025,6,Drugs,74,1000000,0.74
+Cheshire,Cheshire West and Chester,2025,6,Robbery,17,1000000,0.17
+Cheshire,Cheshire West and Chester,2025,6,Vehicle crime,55,1000000,0.55
+Cheshire,Cheshire West and Chester,2025,7,Drugs,93,1000000,0.9299999999999999
+Cheshire,Cheshire West and Chester,2025,7,Robbery,20,1000000,0.2
+Cheshire,Cheshire West and Chester,2025,7,Vehicle crime,58,1000000,0.58
+Cheshire,Cheshire West and Chester,2025,8,Drugs,61,1000000,0.61
+Cheshire,Cheshire West and Chester,2025,8,Robbery,15,1000000,0.15
+Cheshire,Cheshire West and Chester,2025,8,Vehicle crime,26,1000000,0.26
+Cheshire,Cheshire West and Chester,2025,9,Drugs,86,1000000,0.86
+Cheshire,Cheshire West and Chester,2025,9,Robbery,6,1000000,0.060000000000000005
+Cheshire,Cheshire West and Chester,2025,9,Vehicle crime,34,1000000,0.34
+Cheshire,Cheshire West and Chester,2025,10,Drugs,75,1000000,0.7499999999999999
+Cheshire,Cheshire West and Chester,2025,10,Robbery,6,1000000,0.060000000000000005
+Cheshire,Cheshire West and Chester,2025,10,Vehicle crime,61,1000000,0.61
+Cheshire,Cheshire West and Chester,2025,11,Drugs,92,1000000,0.92
+Cheshire,Cheshire West and Chester,2025,11,Robbery,7,1000000,0.06999999999999999
+Cheshire,Cheshire West and Chester,2025,11,Vehicle crime,49,1000000,0.49
+Cheshire,Flintshire,2023,4,Drugs,1,1000000,0.01
+Cheshire,Flintshire,2023,6,Drugs,1,1000000,0.01
+Cheshire,Halton,2022,12,Drugs,41,1000000,0.41000000000000003
+Cheshire,Halton,2022,12,Robbery,5,1000000,0.05
+Cheshire,Halton,2022,12,Vehicle crime,37,1000000,0.37
+Cheshire,Halton,2023,1,Drugs,88,1000000,0.88
+Cheshire,Halton,2023,1,Robbery,6,1000000,0.060000000000000005
+Cheshire,Halton,2023,1,Vehicle crime,50,1000000,0.5
+Cheshire,Halton,2023,2,Drugs,65,1000000,0.6499999999999999
+Cheshire,Halton,2023,2,Robbery,3,1000000,0.030000000000000002
+Cheshire,Halton,2023,2,Vehicle crime,33,1000000,0.33
+Cheshire,Halton,2023,3,Drugs,67,1000000,0.67
+Cheshire,Halton,2023,3,Robbery,2,1000000,0.02
+Cheshire,Halton,2023,3,Vehicle crime,32,1000000,0.32
+Cheshire,Halton,2023,4,Drugs,86,1000000,0.86
+Cheshire,Halton,2023,4,Robbery,12,1000000,0.12000000000000001
+Cheshire,Halton,2023,4,Vehicle crime,43,1000000,0.43
+Cheshire,Halton,2023,5,Drugs,73,1000000,0.73
+Cheshire,Halton,2023,5,Robbery,6,1000000,0.060000000000000005
+Cheshire,Halton,2023,5,Vehicle crime,18,1000000,0.18
+Cheshire,Halton,2023,6,Drugs,60,1000000,0.6
+Cheshire,Halton,2023,6,Robbery,5,1000000,0.05
+Cheshire,Halton,2023,6,Vehicle crime,30,1000000,0.3
+Cheshire,Halton,2023,7,Drugs,46,1000000,0.46
+Cheshire,Halton,2023,7,Robbery,11,1000000,0.11
+Cheshire,Halton,2023,7,Vehicle crime,34,1000000,0.34
+Cheshire,Halton,2023,8,Drugs,46,1000000,0.46
+Cheshire,Halton,2023,8,Robbery,5,1000000,0.05
+Cheshire,Halton,2023,8,Vehicle crime,33,1000000,0.33
+Cheshire,Halton,2023,9,Drugs,69,1000000,0.69
+Cheshire,Halton,2023,9,Robbery,3,1000000,0.030000000000000002
+Cheshire,Halton,2023,9,Vehicle crime,39,1000000,0.39
+Cheshire,Halton,2023,10,Drugs,55,1000000,0.55
+Cheshire,Halton,2023,10,Robbery,5,1000000,0.05
+Cheshire,Halton,2023,10,Vehicle crime,39,1000000,0.39
+Cheshire,Halton,2023,11,Drugs,57,1000000,0.5700000000000001
+Cheshire,Halton,2023,11,Robbery,9,1000000,0.09
+Cheshire,Halton,2023,11,Vehicle crime,38,1000000,0.38
+Cheshire,Halton,2023,12,Drugs,50,1000000,0.5
+Cheshire,Halton,2023,12,Robbery,8,1000000,0.08
+Cheshire,Halton,2023,12,Vehicle crime,37,1000000,0.37
+Cheshire,Halton,2024,1,Drugs,69,1000000,0.69
+Cheshire,Halton,2024,1,Robbery,10,1000000,0.1
+Cheshire,Halton,2024,1,Vehicle crime,44,1000000,0.44
+Cheshire,Halton,2024,2,Drugs,48,1000000,0.48000000000000004
+Cheshire,Halton,2024,2,Robbery,8,1000000,0.08
+Cheshire,Halton,2024,2,Vehicle crime,32,1000000,0.32
+Cheshire,Halton,2024,3,Drugs,47,1000000,0.47
+Cheshire,Halton,2024,3,Robbery,2,1000000,0.02
+Cheshire,Halton,2024,3,Vehicle crime,21,1000000,0.21
+Cheshire,Halton,2024,4,Drugs,56,1000000,0.5599999999999999
+Cheshire,Halton,2024,4,Robbery,7,1000000,0.06999999999999999
+Cheshire,Halton,2024,4,Vehicle crime,31,1000000,0.31
+Cheshire,Halton,2024,5,Drugs,52,1000000,0.52
+Cheshire,Halton,2024,5,Robbery,13,1000000,0.13
+Cheshire,Halton,2024,5,Vehicle crime,28,1000000,0.27999999999999997
+Cheshire,Halton,2024,6,Drugs,60,1000000,0.6
+Cheshire,Halton,2024,6,Robbery,4,1000000,0.04
+Cheshire,Halton,2024,6,Vehicle crime,27,1000000,0.26999999999999996
+Cheshire,Halton,2024,7,Drugs,42,1000000,0.42
+Cheshire,Halton,2024,7,Robbery,14,1000000,0.13999999999999999
+Cheshire,Halton,2024,7,Vehicle crime,21,1000000,0.21
+Cheshire,Halton,2024,8,Drugs,75,1000000,0.7499999999999999
+Cheshire,Halton,2024,8,Robbery,10,1000000,0.1
+Cheshire,Halton,2024,8,Vehicle crime,34,1000000,0.34
+Cheshire,Halton,2024,9,Drugs,54,1000000,0.5399999999999999
+Cheshire,Halton,2024,9,Robbery,6,1000000,0.060000000000000005
+Cheshire,Halton,2024,9,Vehicle crime,39,1000000,0.39
+Cheshire,Halton,2024,10,Drugs,52,1000000,0.52
+Cheshire,Halton,2024,10,Robbery,8,1000000,0.08
+Cheshire,Halton,2024,10,Vehicle crime,38,1000000,0.38
+Cheshire,Halton,2024,11,Drugs,56,1000000,0.5599999999999999
+Cheshire,Halton,2024,11,Robbery,7,1000000,0.06999999999999999
+Cheshire,Halton,2024,11,Vehicle crime,33,1000000,0.33
+Cheshire,Halton,2024,12,Drugs,51,1000000,0.51
+Cheshire,Halton,2024,12,Robbery,7,1000000,0.06999999999999999
+Cheshire,Halton,2024,12,Vehicle crime,40,1000000,0.4
+Cheshire,Halton,2025,1,Drugs,39,1000000,0.39
+Cheshire,Halton,2025,1,Robbery,7,1000000,0.06999999999999999
+Cheshire,Halton,2025,1,Vehicle crime,23,1000000,0.23
+Cheshire,Halton,2025,2,Drugs,51,1000000,0.51
+Cheshire,Halton,2025,2,Robbery,10,1000000,0.1
+Cheshire,Halton,2025,2,Vehicle crime,26,1000000,0.26
+Cheshire,Halton,2025,3,Drugs,57,1000000,0.5700000000000001
+Cheshire,Halton,2025,3,Robbery,6,1000000,0.060000000000000005
+Cheshire,Halton,2025,3,Vehicle crime,22,1000000,0.22
+Cheshire,Halton,2025,4,Drugs,52,1000000,0.52
+Cheshire,Halton,2025,4,Robbery,8,1000000,0.08
+Cheshire,Halton,2025,4,Vehicle crime,20,1000000,0.2
+Cheshire,Halton,2025,5,Drugs,45,1000000,0.45
+Cheshire,Halton,2025,5,Robbery,12,1000000,0.12000000000000001
+Cheshire,Halton,2025,5,Vehicle crime,34,1000000,0.34
+Cheshire,Halton,2025,6,Drugs,62,1000000,0.62
+Cheshire,Halton,2025,6,Robbery,10,1000000,0.1
+Cheshire,Halton,2025,6,Vehicle crime,33,1000000,0.33
+Cheshire,Halton,2025,7,Drugs,39,1000000,0.39
+Cheshire,Halton,2025,7,Robbery,10,1000000,0.1
+Cheshire,Halton,2025,7,Vehicle crime,21,1000000,0.21
+Cheshire,Halton,2025,8,Drugs,64,1000000,0.64
+Cheshire,Halton,2025,8,Robbery,9,1000000,0.09
+Cheshire,Halton,2025,8,Vehicle crime,37,1000000,0.37
+Cheshire,Halton,2025,9,Drugs,54,1000000,0.5399999999999999
+Cheshire,Halton,2025,9,Robbery,7,1000000,0.06999999999999999
+Cheshire,Halton,2025,9,Vehicle crime,29,1000000,0.29
+Cheshire,Halton,2025,10,Drugs,48,1000000,0.48000000000000004
+Cheshire,Halton,2025,10,Robbery,7,1000000,0.06999999999999999
+Cheshire,Halton,2025,10,Vehicle crime,39,1000000,0.39
+Cheshire,Halton,2025,11,Drugs,43,1000000,0.43
+Cheshire,Halton,2025,11,Robbery,4,1000000,0.04
+Cheshire,Halton,2025,11,Vehicle crime,33,1000000,0.33
+Cheshire,High Peak,2023,3,Vehicle crime,1,1000000,0.01
+Cheshire,High Peak,2025,2,Drugs,1,1000000,0.01
+Cheshire,High Peak,2025,3,Drugs,1,1000000,0.01
+Cheshire,High Peak,2025,9,Robbery,1,1000000,0.01
+Cheshire,High Peak,2025,11,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2023,2,Robbery,1,1000000,0.01
+Cheshire,Knowsley,2023,4,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2023,10,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2023,12,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2024,3,Robbery,1,1000000,0.01
+Cheshire,Knowsley,2024,5,Robbery,1,1000000,0.01
+Cheshire,Knowsley,2024,9,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2024,10,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2024,12,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2025,1,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2025,2,Drugs,1,1000000,0.01
+Cheshire,Knowsley,2025,8,Drugs,2,1000000,0.02
+Cheshire,Knowsley,2025,11,Drugs,1,1000000,0.01
+Cheshire,Manchester,2023,3,Vehicle crime,1,1000000,0.01
+Cheshire,Manchester,2023,8,Vehicle crime,1,1000000,0.01
+Cheshire,Manchester,2024,2,Drugs,2,1000000,0.02
+Cheshire,Manchester,2024,2,Vehicle crime,1,1000000,0.01
+Cheshire,Manchester,2024,5,Vehicle crime,1,1000000,0.01
+Cheshire,Salford,2023,4,Drugs,1,1000000,0.01
+Cheshire,Salford,2023,11,Drugs,1,1000000,0.01
+Cheshire,Salford,2024,2,Drugs,2,1000000,0.02
+Cheshire,Salford,2025,3,Robbery,1,1000000,0.01
+Cheshire,Salford,2025,9,Drugs,1,1000000,0.01
+Cheshire,Salford,2025,10,Drugs,1,1000000,0.01
+Cheshire,Shropshire,2023,10,Drugs,1,1000000,0.01
+Cheshire,St. Helens,2023,1,Vehicle crime,1,1000000,0.01
+Cheshire,St. Helens,2023,4,Drugs,2,1000000,0.02
+Cheshire,St. Helens,2023,10,Drugs,1,1000000,0.01
+Cheshire,St. Helens,2025,2,Vehicle crime,1,1000000,0.01
+Cheshire,Stockport,2024,3,Drugs,1,1000000,0.01
+Cheshire,Stockport,2025,3,Drugs,1,1000000,0.01
+Cheshire,Trafford,2023,2,Drugs,1,1000000,0.01
+Cheshire,Trafford,2023,5,Drugs,1,1000000,0.01
+Cheshire,Trafford,2023,9,Drugs,1,1000000,0.01
+Cheshire,Trafford,2023,11,Drugs,1,1000000,0.01
+Cheshire,Trafford,2024,11,Vehicle crime,1,1000000,0.01
+Cheshire,Trafford,2025,2,Drugs,1,1000000,0.01
+Cheshire,Trafford,2025,10,Drugs,1,1000000,0.01
+Cheshire,Warrington,2022,12,Drugs,50,1000000,0.5
+Cheshire,Warrington,2022,12,Robbery,5,1000000,0.05
+Cheshire,Warrington,2022,12,Vehicle crime,29,1000000,0.29
+Cheshire,Warrington,2023,1,Drugs,53,1000000,0.53
+Cheshire,Warrington,2023,1,Robbery,8,1000000,0.08
+Cheshire,Warrington,2023,1,Vehicle crime,57,1000000,0.5700000000000001
+Cheshire,Warrington,2023,2,Drugs,55,1000000,0.55
+Cheshire,Warrington,2023,2,Robbery,7,1000000,0.06999999999999999
+Cheshire,Warrington,2023,2,Vehicle crime,66,1000000,0.66
+Cheshire,Warrington,2023,3,Drugs,60,1000000,0.6
+Cheshire,Warrington,2023,3,Robbery,7,1000000,0.06999999999999999
+Cheshire,Warrington,2023,3,Vehicle crime,67,1000000,0.67
+Cheshire,Warrington,2023,4,Drugs,72,1000000,0.72
+Cheshire,Warrington,2023,4,Robbery,6,1000000,0.060000000000000005
+Cheshire,Warrington,2023,4,Vehicle crime,55,1000000,0.55
+Cheshire,Warrington,2023,5,Drugs,56,1000000,0.5599999999999999
+Cheshire,Warrington,2023,5,Robbery,7,1000000,0.06999999999999999
+Cheshire,Warrington,2023,5,Vehicle crime,82,1000000,0.8200000000000001
+Cheshire,Warrington,2023,6,Drugs,62,1000000,0.62
+Cheshire,Warrington,2023,6,Robbery,8,1000000,0.08
+Cheshire,Warrington,2023,6,Vehicle crime,69,1000000,0.69
+Cheshire,Warrington,2023,7,Drugs,53,1000000,0.53
+Cheshire,Warrington,2023,7,Robbery,9,1000000,0.09
+Cheshire,Warrington,2023,7,Vehicle crime,37,1000000,0.37
+Cheshire,Warrington,2023,8,Drugs,155,1000000,1.55
+Cheshire,Warrington,2023,8,Robbery,5,1000000,0.05
+Cheshire,Warrington,2023,8,Vehicle crime,87,1000000,0.87
+Cheshire,Warrington,2023,9,Drugs,60,1000000,0.6
+Cheshire,Warrington,2023,9,Robbery,4,1000000,0.04
+Cheshire,Warrington,2023,9,Vehicle crime,44,1000000,0.44
+Cheshire,Warrington,2023,10,Drugs,62,1000000,0.62
+Cheshire,Warrington,2023,10,Robbery,11,1000000,0.11
+Cheshire,Warrington,2023,10,Vehicle crime,48,1000000,0.48000000000000004
+Cheshire,Warrington,2023,11,Drugs,73,1000000,0.73
+Cheshire,Warrington,2023,11,Robbery,6,1000000,0.060000000000000005
+Cheshire,Warrington,2023,11,Vehicle crime,65,1000000,0.6499999999999999
+Cheshire,Warrington,2023,12,Drugs,73,1000000,0.73
+Cheshire,Warrington,2023,12,Robbery,4,1000000,0.04
+Cheshire,Warrington,2023,12,Vehicle crime,36,1000000,0.36
+Cheshire,Warrington,2024,1,Drugs,63,1000000,0.63
+Cheshire,Warrington,2024,1,Robbery,4,1000000,0.04
+Cheshire,Warrington,2024,1,Vehicle crime,39,1000000,0.39
+Cheshire,Warrington,2024,2,Drugs,56,1000000,0.5599999999999999
+Cheshire,Warrington,2024,2,Robbery,1,1000000,0.01
+Cheshire,Warrington,2024,2,Vehicle crime,37,1000000,0.37
+Cheshire,Warrington,2024,3,Drugs,62,1000000,0.62
+Cheshire,Warrington,2024,3,Robbery,6,1000000,0.060000000000000005
+Cheshire,Warrington,2024,3,Vehicle crime,67,1000000,0.67
+Cheshire,Warrington,2024,4,Drugs,45,1000000,0.45
+Cheshire,Warrington,2024,4,Robbery,4,1000000,0.04
+Cheshire,Warrington,2024,4,Vehicle crime,40,1000000,0.4
+Cheshire,Warrington,2024,5,Drugs,51,1000000,0.51
+Cheshire,Warrington,2024,5,Robbery,7,1000000,0.06999999999999999
+Cheshire,Warrington,2024,5,Vehicle crime,46,1000000,0.46
+Cheshire,Warrington,2024,6,Drugs,43,1000000,0.43
+Cheshire,Warrington,2024,6,Robbery,4,1000000,0.04
+Cheshire,Warrington,2024,6,Vehicle crime,38,1000000,0.38
+Cheshire,Warrington,2024,7,Drugs,68,1000000,0.68
+Cheshire,Warrington,2024,7,Robbery,7,1000000,0.06999999999999999
+Cheshire,Warrington,2024,7,Vehicle crime,45,1000000,0.45
+Cheshire,Warrington,2024,8,Drugs,191,1000000,1.9100000000000001
+Cheshire,Warrington,2024,8,Robbery,4,1000000,0.04
+Cheshire,Warrington,2024,8,Vehicle crime,39,1000000,0.39
+Cheshire,Warrington,2024,9,Drugs,63,1000000,0.63
+Cheshire,Warrington,2024,9,Robbery,5,1000000,0.05
+Cheshire,Warrington,2024,9,Vehicle crime,32,1000000,0.32
+Cheshire,Warrington,2024,10,Drugs,66,1000000,0.66
+Cheshire,Warrington,2024,10,Robbery,5,1000000,0.05
+Cheshire,Warrington,2024,10,Vehicle crime,33,1000000,0.33
+Cheshire,Warrington,2024,11,Drugs,52,1000000,0.52
+Cheshire,Warrington,2024,11,Robbery,8,1000000,0.08
+Cheshire,Warrington,2024,11,Vehicle crime,59,1000000,0.59
+Cheshire,Warrington,2024,12,Drugs,45,1000000,0.45
+Cheshire,Warrington,2024,12,Robbery,6,1000000,0.060000000000000005
+Cheshire,Warrington,2024,12,Vehicle crime,35,1000000,0.35
+Cheshire,Warrington,2025,1,Drugs,61,1000000,0.61
+Cheshire,Warrington,2025,1,Robbery,4,1000000,0.04
+Cheshire,Warrington,2025,1,Vehicle crime,29,1000000,0.29
+Cheshire,Warrington,2025,2,Drugs,59,1000000,0.59
+Cheshire,Warrington,2025,2,Robbery,8,1000000,0.08
+Cheshire,Warrington,2025,2,Vehicle crime,39,1000000,0.39
+Cheshire,Warrington,2025,3,Drugs,66,1000000,0.66
+Cheshire,Warrington,2025,3,Robbery,11,1000000,0.11
+Cheshire,Warrington,2025,3,Vehicle crime,44,1000000,0.44
+Cheshire,Warrington,2025,4,Drugs,69,1000000,0.69
+Cheshire,Warrington,2025,4,Robbery,11,1000000,0.11
+Cheshire,Warrington,2025,4,Vehicle crime,39,1000000,0.39
+Cheshire,Warrington,2025,5,Drugs,58,1000000,0.58
+Cheshire,Warrington,2025,5,Robbery,5,1000000,0.05
+Cheshire,Warrington,2025,5,Vehicle crime,19,1000000,0.19
+Cheshire,Warrington,2025,6,Drugs,59,1000000,0.59
+Cheshire,Warrington,2025,6,Robbery,9,1000000,0.09
+Cheshire,Warrington,2025,6,Vehicle crime,47,1000000,0.47
+Cheshire,Warrington,2025,7,Drugs,86,1000000,0.86
+Cheshire,Warrington,2025,7,Robbery,2,1000000,0.02
+Cheshire,Warrington,2025,7,Vehicle crime,58,1000000,0.58
+Cheshire,Warrington,2025,8,Drugs,156,1000000,1.56
+Cheshire,Warrington,2025,8,Robbery,9,1000000,0.09
+Cheshire,Warrington,2025,8,Vehicle crime,66,1000000,0.66
+Cheshire,Warrington,2025,9,Drugs,45,1000000,0.45
+Cheshire,Warrington,2025,9,Robbery,10,1000000,0.1
+Cheshire,Warrington,2025,9,Vehicle crime,50,1000000,0.5
+Cheshire,Warrington,2025,10,Drugs,66,1000000,0.66
+Cheshire,Warrington,2025,10,Robbery,8,1000000,0.08
+Cheshire,Warrington,2025,10,Vehicle crime,44,1000000,0.44
+Cheshire,Warrington,2025,11,Drugs,63,1000000,0.63
+Cheshire,Warrington,2025,11,Robbery,8,1000000,0.08
+Cheshire,Warrington,2025,11,Vehicle crime,37,1000000,0.37
+Cheshire,Wirral,2024,7,Drugs,1,1000000,0.01
+Cheshire,Wirral,2024,8,Drugs,1,1000000,0.01
+Cheshire,Wirral,2025,6,Drugs,1,1000000,0.01
+Cheshire,Wirral,2025,9,Drugs,1,1000000,0.01
+Cumberland,Allerdale,2022,12,Drugs,30,500000,0.6
+Cumberland,Allerdale,2022,12,Robbery,3,500000,0.060000000000000005
+Cumberland,Allerdale,2022,12,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Allerdale,2023,1,Drugs,30,500000,0.6
+Cumberland,Allerdale,2023,1,Robbery,1,500000,0.02
+Cumberland,Allerdale,2023,1,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,Allerdale,2023,2,Drugs,20,500000,0.4
+Cumberland,Allerdale,2023,2,Robbery,4,500000,0.08
+Cumberland,Allerdale,2023,2,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Allerdale,2023,3,Drugs,19,500000,0.38
+Cumberland,Allerdale,2023,3,Robbery,3,500000,0.060000000000000005
+Cumberland,Allerdale,2023,3,Vehicle crime,19,500000,0.38
+Cumberland,Allerdale,2023,4,Drugs,23,500000,0.46
+Cumberland,Allerdale,2023,4,Robbery,4,500000,0.08
+Cumberland,Allerdale,2023,4,Vehicle crime,25,500000,0.5
+Cumberland,Allerdale,2023,5,Drugs,16,500000,0.32
+Cumberland,Allerdale,2023,5,Vehicle crime,10,500000,0.2
+Cumberland,Allerdale,2023,6,Drugs,18,500000,0.36
+Cumberland,Allerdale,2023,6,Robbery,3,500000,0.060000000000000005
+Cumberland,Allerdale,2023,6,Vehicle crime,15,500000,0.3
+Cumberland,Allerdale,2023,7,Drugs,19,500000,0.38
+Cumberland,Allerdale,2023,7,Robbery,1,500000,0.02
+Cumberland,Allerdale,2023,7,Vehicle crime,16,500000,0.32
+Cumberland,Allerdale,2023,8,Drugs,26,500000,0.52
+Cumberland,Allerdale,2023,8,Robbery,2,500000,0.04
+Cumberland,Allerdale,2023,8,Vehicle crime,22,500000,0.44
+Cumberland,Allerdale,2023,9,Drugs,12,500000,0.24000000000000002
+Cumberland,Allerdale,2023,9,Vehicle crime,31,500000,0.62
+Cumberland,Allerdale,2023,10,Drugs,28,500000,0.5599999999999999
+Cumberland,Allerdale,2023,10,Robbery,2,500000,0.04
+Cumberland,Allerdale,2023,10,Vehicle crime,19,500000,0.38
+Cumberland,Allerdale,2023,11,Drugs,28,500000,0.5599999999999999
+Cumberland,Allerdale,2023,11,Robbery,3,500000,0.060000000000000005
+Cumberland,Allerdale,2023,11,Vehicle crime,31,500000,0.62
+Cumberland,Allerdale,2023,12,Drugs,34,500000,0.68
+Cumberland,Allerdale,2023,12,Robbery,1,500000,0.02
+Cumberland,Allerdale,2023,12,Vehicle crime,23,500000,0.46
+Cumberland,Allerdale,2024,1,Drugs,20,500000,0.4
+Cumberland,Allerdale,2024,1,Robbery,2,500000,0.04
+Cumberland,Allerdale,2024,1,Vehicle crime,16,500000,0.32
+Cumberland,Allerdale,2024,2,Drugs,19,500000,0.38
+Cumberland,Allerdale,2024,2,Robbery,1,500000,0.02
+Cumberland,Allerdale,2024,2,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Allerdale,2024,3,Drugs,14,500000,0.27999999999999997
+Cumberland,Allerdale,2024,3,Robbery,2,500000,0.04
+Cumberland,Allerdale,2024,3,Vehicle crime,5,500000,0.1
+Cumberland,Allerdale,2024,4,Drugs,19,500000,0.38
+Cumberland,Allerdale,2024,4,Robbery,1,500000,0.02
+Cumberland,Allerdale,2024,4,Vehicle crime,11,500000,0.22
+Cumberland,Allerdale,2024,5,Drugs,28,500000,0.5599999999999999
+Cumberland,Allerdale,2024,5,Vehicle crime,27,500000,0.5399999999999999
+Cumberland,Allerdale,2024,6,Drugs,26,500000,0.52
+Cumberland,Allerdale,2024,6,Robbery,2,500000,0.04
+Cumberland,Allerdale,2024,6,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Allerdale,2024,7,Drugs,31,500000,0.62
+Cumberland,Allerdale,2024,7,Robbery,1,500000,0.02
+Cumberland,Allerdale,2024,7,Vehicle crime,24,500000,0.48000000000000004
+Cumberland,Allerdale,2024,8,Drugs,18,500000,0.36
+Cumberland,Allerdale,2024,8,Robbery,2,500000,0.04
+Cumberland,Allerdale,2024,8,Vehicle crime,18,500000,0.36
+Cumberland,Allerdale,2024,9,Drugs,14,500000,0.27999999999999997
+Cumberland,Allerdale,2024,9,Robbery,1,500000,0.02
+Cumberland,Allerdale,2024,9,Vehicle crime,10,500000,0.2
+Cumberland,Allerdale,2024,10,Drugs,15,500000,0.3
+Cumberland,Allerdale,2024,10,Vehicle crime,11,500000,0.22
+Cumberland,Allerdale,2024,11,Drugs,21,500000,0.42
+Cumberland,Allerdale,2024,11,Robbery,2,500000,0.04
+Cumberland,Allerdale,2024,11,Vehicle crime,2,500000,0.04
+Cumberland,Allerdale,2024,12,Drugs,21,500000,0.42
+Cumberland,Allerdale,2024,12,Robbery,2,500000,0.04
+Cumberland,Allerdale,2024,12,Vehicle crime,15,500000,0.3
+Cumberland,Allerdale,2025,1,Drugs,27,500000,0.5399999999999999
+Cumberland,Allerdale,2025,1,Robbery,1,500000,0.02
+Cumberland,Allerdale,2025,1,Vehicle crime,2,500000,0.04
+Cumberland,Allerdale,2025,2,Drugs,33,500000,0.66
+Cumberland,Allerdale,2025,2,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Allerdale,2025,3,Drugs,34,500000,0.68
+Cumberland,Allerdale,2025,3,Robbery,3,500000,0.060000000000000005
+Cumberland,Allerdale,2025,3,Vehicle crime,11,500000,0.22
+Cumberland,Allerdale,2025,4,Drugs,25,500000,0.5
+Cumberland,Allerdale,2025,4,Robbery,3,500000,0.060000000000000005
+Cumberland,Allerdale,2025,4,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Allerdale,2025,5,Drugs,22,500000,0.44
+Cumberland,Allerdale,2025,5,Robbery,2,500000,0.04
+Cumberland,Allerdale,2025,5,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Allerdale,2025,6,Drugs,20,500000,0.4
+Cumberland,Allerdale,2025,6,Robbery,1,500000,0.02
+Cumberland,Allerdale,2025,6,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Allerdale,2025,7,Drugs,20,500000,0.4
+Cumberland,Allerdale,2025,7,Robbery,2,500000,0.04
+Cumberland,Allerdale,2025,7,Vehicle crime,8,500000,0.16
+Cumberland,Allerdale,2025,8,Drugs,20,500000,0.4
+Cumberland,Allerdale,2025,8,Robbery,4,500000,0.08
+Cumberland,Allerdale,2025,8,Vehicle crime,17,500000,0.34
+Cumberland,Allerdale,2025,9,Drugs,11,500000,0.22
+Cumberland,Allerdale,2025,9,Robbery,2,500000,0.04
+Cumberland,Allerdale,2025,9,Vehicle crime,19,500000,0.38
+Cumberland,Allerdale,2025,10,Drugs,21,500000,0.42
+Cumberland,Allerdale,2025,10,Robbery,1,500000,0.02
+Cumberland,Allerdale,2025,10,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Allerdale,2025,11,Drugs,30,500000,0.6
+Cumberland,Allerdale,2025,11,Robbery,1,500000,0.02
+Cumberland,Allerdale,2025,11,Vehicle crime,8,500000,0.16
+Cumberland,Barrow-in-Furness,2022,12,Drugs,20,500000,0.4
+Cumberland,Barrow-in-Furness,2022,12,Robbery,4,500000,0.08
+Cumberland,Barrow-in-Furness,2022,12,Vehicle crime,10,500000,0.2
+Cumberland,Barrow-in-Furness,2023,1,Drugs,10,500000,0.2
+Cumberland,Barrow-in-Furness,2023,1,Robbery,1,500000,0.02
+Cumberland,Barrow-in-Furness,2023,1,Vehicle crime,9,500000,0.18
+Cumberland,Barrow-in-Furness,2023,2,Drugs,7,500000,0.13999999999999999
+Cumberland,Barrow-in-Furness,2023,2,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2023,2,Vehicle crime,10,500000,0.2
+Cumberland,Barrow-in-Furness,2023,3,Drugs,19,500000,0.38
+Cumberland,Barrow-in-Furness,2023,3,Vehicle crime,24,500000,0.48000000000000004
+Cumberland,Barrow-in-Furness,2023,4,Drugs,22,500000,0.44
+Cumberland,Barrow-in-Furness,2023,4,Robbery,1,500000,0.02
+Cumberland,Barrow-in-Furness,2023,4,Vehicle crime,18,500000,0.36
+Cumberland,Barrow-in-Furness,2023,5,Drugs,18,500000,0.36
+Cumberland,Barrow-in-Furness,2023,5,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2023,5,Vehicle crime,19,500000,0.38
+Cumberland,Barrow-in-Furness,2023,6,Drugs,10,500000,0.2
+Cumberland,Barrow-in-Furness,2023,6,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2023,6,Vehicle crime,21,500000,0.42
+Cumberland,Barrow-in-Furness,2023,7,Drugs,28,500000,0.5599999999999999
+Cumberland,Barrow-in-Furness,2023,7,Robbery,4,500000,0.08
+Cumberland,Barrow-in-Furness,2023,7,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Barrow-in-Furness,2023,8,Drugs,30,500000,0.6
+Cumberland,Barrow-in-Furness,2023,8,Robbery,4,500000,0.08
+Cumberland,Barrow-in-Furness,2023,8,Vehicle crime,18,500000,0.36
+Cumberland,Barrow-in-Furness,2023,9,Drugs,20,500000,0.4
+Cumberland,Barrow-in-Furness,2023,9,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Barrow-in-Furness,2023,10,Drugs,19,500000,0.38
+Cumberland,Barrow-in-Furness,2023,10,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2023,10,Vehicle crime,5,500000,0.1
+Cumberland,Barrow-in-Furness,2023,11,Drugs,22,500000,0.44
+Cumberland,Barrow-in-Furness,2023,11,Robbery,1,500000,0.02
+Cumberland,Barrow-in-Furness,2023,11,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Barrow-in-Furness,2023,12,Drugs,31,500000,0.62
+Cumberland,Barrow-in-Furness,2023,12,Robbery,6,500000,0.12000000000000001
+Cumberland,Barrow-in-Furness,2023,12,Vehicle crime,10,500000,0.2
+Cumberland,Barrow-in-Furness,2024,1,Drugs,22,500000,0.44
+Cumberland,Barrow-in-Furness,2024,1,Robbery,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2024,1,Vehicle crime,20,500000,0.4
+Cumberland,Barrow-in-Furness,2024,2,Drugs,21,500000,0.42
+Cumberland,Barrow-in-Furness,2024,2,Robbery,1,500000,0.02
+Cumberland,Barrow-in-Furness,2024,2,Vehicle crime,28,500000,0.5599999999999999
+Cumberland,Barrow-in-Furness,2024,3,Drugs,19,500000,0.38
+Cumberland,Barrow-in-Furness,2024,3,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2024,3,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,Barrow-in-Furness,2024,4,Drugs,30,500000,0.6
+Cumberland,Barrow-in-Furness,2024,4,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2024,4,Vehicle crime,9,500000,0.18
+Cumberland,Barrow-in-Furness,2024,5,Drugs,25,500000,0.5
+Cumberland,Barrow-in-Furness,2024,5,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2024,5,Vehicle crime,10,500000,0.2
+Cumberland,Barrow-in-Furness,2024,6,Drugs,28,500000,0.5599999999999999
+Cumberland,Barrow-in-Furness,2024,6,Robbery,5,500000,0.1
+Cumberland,Barrow-in-Furness,2024,6,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Barrow-in-Furness,2024,7,Drugs,28,500000,0.5599999999999999
+Cumberland,Barrow-in-Furness,2024,7,Robbery,2,500000,0.04
+Cumberland,Barrow-in-Furness,2024,7,Vehicle crime,10,500000,0.2
+Cumberland,Barrow-in-Furness,2024,8,Drugs,20,500000,0.4
+Cumberland,Barrow-in-Furness,2024,8,Vehicle crime,19,500000,0.38
+Cumberland,Barrow-in-Furness,2024,9,Drugs,25,500000,0.5
+Cumberland,Barrow-in-Furness,2024,9,Robbery,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2024,9,Vehicle crime,10,500000,0.2
+Cumberland,Barrow-in-Furness,2024,10,Drugs,22,500000,0.44
+Cumberland,Barrow-in-Furness,2024,10,Robbery,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2024,10,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Barrow-in-Furness,2024,11,Drugs,28,500000,0.5599999999999999
+Cumberland,Barrow-in-Furness,2024,11,Robbery,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2024,11,Vehicle crime,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2024,12,Drugs,32,500000,0.64
+Cumberland,Barrow-in-Furness,2024,12,Vehicle crime,8,500000,0.16
+Cumberland,Barrow-in-Furness,2025,1,Drugs,17,500000,0.34
+Cumberland,Barrow-in-Furness,2025,1,Vehicle crime,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2025,2,Drugs,29,500000,0.58
+Cumberland,Barrow-in-Furness,2025,2,Vehicle crime,4,500000,0.08
+Cumberland,Barrow-in-Furness,2025,3,Drugs,26,500000,0.52
+Cumberland,Barrow-in-Furness,2025,3,Robbery,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2025,3,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Barrow-in-Furness,2025,4,Drugs,18,500000,0.36
+Cumberland,Barrow-in-Furness,2025,4,Robbery,1,500000,0.02
+Cumberland,Barrow-in-Furness,2025,4,Vehicle crime,8,500000,0.16
+Cumberland,Barrow-in-Furness,2025,5,Drugs,23,500000,0.46
+Cumberland,Barrow-in-Furness,2025,5,Robbery,1,500000,0.02
+Cumberland,Barrow-in-Furness,2025,5,Vehicle crime,8,500000,0.16
+Cumberland,Barrow-in-Furness,2025,6,Drugs,14,500000,0.27999999999999997
+Cumberland,Barrow-in-Furness,2025,6,Robbery,3,500000,0.060000000000000005
+Cumberland,Barrow-in-Furness,2025,6,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Barrow-in-Furness,2025,7,Drugs,21,500000,0.42
+Cumberland,Barrow-in-Furness,2025,7,Robbery,4,500000,0.08
+Cumberland,Barrow-in-Furness,2025,7,Vehicle crime,5,500000,0.1
+Cumberland,Barrow-in-Furness,2025,8,Drugs,32,500000,0.64
+Cumberland,Barrow-in-Furness,2025,8,Robbery,4,500000,0.08
+Cumberland,Barrow-in-Furness,2025,8,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Barrow-in-Furness,2025,9,Drugs,23,500000,0.46
+Cumberland,Barrow-in-Furness,2025,9,Robbery,1,500000,0.02
+Cumberland,Barrow-in-Furness,2025,9,Vehicle crime,5,500000,0.1
+Cumberland,Barrow-in-Furness,2025,10,Drugs,23,500000,0.46
+Cumberland,Barrow-in-Furness,2025,10,Robbery,6,500000,0.12000000000000001
+Cumberland,Barrow-in-Furness,2025,10,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Barrow-in-Furness,2025,11,Drugs,30,500000,0.6
+Cumberland,Barrow-in-Furness,2025,11,Robbery,7,500000,0.13999999999999999
+Cumberland,Barrow-in-Furness,2025,11,Vehicle crime,11,500000,0.22
+Cumberland,Bradford,2023,6,Vehicle crime,1,500000,0.02
+Cumberland,Carlisle,2022,12,Drugs,30,500000,0.6
+Cumberland,Carlisle,2022,12,Robbery,4,500000,0.08
+Cumberland,Carlisle,2022,12,Vehicle crime,35,500000,0.7
+Cumberland,Carlisle,2023,1,Drugs,33,500000,0.66
+Cumberland,Carlisle,2023,1,Robbery,9,500000,0.18
+Cumberland,Carlisle,2023,1,Vehicle crime,50,500000,1
+Cumberland,Carlisle,2023,2,Drugs,31,500000,0.62
+Cumberland,Carlisle,2023,2,Robbery,11,500000,0.22
+Cumberland,Carlisle,2023,2,Vehicle crime,23,500000,0.46
+Cumberland,Carlisle,2023,3,Drugs,28,500000,0.5599999999999999
+Cumberland,Carlisle,2023,3,Robbery,2,500000,0.04
+Cumberland,Carlisle,2023,3,Vehicle crime,21,500000,0.42
+Cumberland,Carlisle,2023,4,Drugs,31,500000,0.62
+Cumberland,Carlisle,2023,4,Robbery,3,500000,0.060000000000000005
+Cumberland,Carlisle,2023,4,Vehicle crime,20,500000,0.4
+Cumberland,Carlisle,2023,5,Drugs,46,500000,0.92
+Cumberland,Carlisle,2023,5,Robbery,8,500000,0.16
+Cumberland,Carlisle,2023,5,Vehicle crime,27,500000,0.5399999999999999
+Cumberland,Carlisle,2023,6,Drugs,21,500000,0.42
+Cumberland,Carlisle,2023,6,Robbery,4,500000,0.08
+Cumberland,Carlisle,2023,6,Vehicle crime,23,500000,0.46
+Cumberland,Carlisle,2023,7,Drugs,31,500000,0.62
+Cumberland,Carlisle,2023,7,Robbery,3,500000,0.060000000000000005
+Cumberland,Carlisle,2023,7,Vehicle crime,11,500000,0.22
+Cumberland,Carlisle,2023,8,Drugs,36,500000,0.72
+Cumberland,Carlisle,2023,8,Robbery,9,500000,0.18
+Cumberland,Carlisle,2023,8,Vehicle crime,8,500000,0.16
+Cumberland,Carlisle,2023,9,Drugs,26,500000,0.52
+Cumberland,Carlisle,2023,9,Robbery,6,500000,0.12000000000000001
+Cumberland,Carlisle,2023,9,Vehicle crime,31,500000,0.62
+Cumberland,Carlisle,2023,10,Drugs,28,500000,0.5599999999999999
+Cumberland,Carlisle,2023,10,Robbery,12,500000,0.24000000000000002
+Cumberland,Carlisle,2023,10,Vehicle crime,27,500000,0.5399999999999999
+Cumberland,Carlisle,2023,11,Drugs,38,500000,0.76
+Cumberland,Carlisle,2023,11,Robbery,3,500000,0.060000000000000005
+Cumberland,Carlisle,2023,11,Vehicle crime,13,500000,0.26
+Cumberland,Carlisle,2023,12,Drugs,42,500000,0.84
+Cumberland,Carlisle,2023,12,Robbery,7,500000,0.13999999999999999
+Cumberland,Carlisle,2023,12,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Carlisle,2024,1,Drugs,43,500000,0.86
+Cumberland,Carlisle,2024,1,Robbery,4,500000,0.08
+Cumberland,Carlisle,2024,1,Vehicle crime,15,500000,0.3
+Cumberland,Carlisle,2024,2,Drugs,44,500000,0.88
+Cumberland,Carlisle,2024,2,Robbery,6,500000,0.12000000000000001
+Cumberland,Carlisle,2024,2,Vehicle crime,23,500000,0.46
+Cumberland,Carlisle,2024,3,Drugs,41,500000,0.8200000000000001
+Cumberland,Carlisle,2024,3,Robbery,5,500000,0.1
+Cumberland,Carlisle,2024,3,Vehicle crime,24,500000,0.48000000000000004
+Cumberland,Carlisle,2024,4,Drugs,30,500000,0.6
+Cumberland,Carlisle,2024,4,Robbery,5,500000,0.1
+Cumberland,Carlisle,2024,4,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Carlisle,2024,5,Drugs,43,500000,0.86
+Cumberland,Carlisle,2024,5,Robbery,4,500000,0.08
+Cumberland,Carlisle,2024,5,Vehicle crime,15,500000,0.3
+Cumberland,Carlisle,2024,6,Drugs,32,500000,0.64
+Cumberland,Carlisle,2024,6,Robbery,7,500000,0.13999999999999999
+Cumberland,Carlisle,2024,6,Vehicle crime,23,500000,0.46
+Cumberland,Carlisle,2024,7,Drugs,36,500000,0.72
+Cumberland,Carlisle,2024,7,Robbery,4,500000,0.08
+Cumberland,Carlisle,2024,7,Vehicle crime,24,500000,0.48000000000000004
+Cumberland,Carlisle,2024,8,Drugs,59,500000,1.18
+Cumberland,Carlisle,2024,8,Robbery,2,500000,0.04
+Cumberland,Carlisle,2024,8,Vehicle crime,17,500000,0.34
+Cumberland,Carlisle,2024,9,Drugs,55,500000,1.1
+Cumberland,Carlisle,2024,9,Robbery,5,500000,0.1
+Cumberland,Carlisle,2024,9,Vehicle crime,27,500000,0.5399999999999999
+Cumberland,Carlisle,2024,10,Drugs,30,500000,0.6
+Cumberland,Carlisle,2024,10,Robbery,5,500000,0.1
+Cumberland,Carlisle,2024,10,Vehicle crime,22,500000,0.44
+Cumberland,Carlisle,2024,11,Drugs,47,500000,0.94
+Cumberland,Carlisle,2024,11,Robbery,4,500000,0.08
+Cumberland,Carlisle,2024,11,Vehicle crime,18,500000,0.36
+Cumberland,Carlisle,2024,12,Drugs,59,500000,1.18
+Cumberland,Carlisle,2024,12,Robbery,3,500000,0.060000000000000005
+Cumberland,Carlisle,2024,12,Vehicle crime,24,500000,0.48000000000000004
+Cumberland,Carlisle,2025,1,Drugs,53,500000,1.06
+Cumberland,Carlisle,2025,1,Robbery,2,500000,0.04
+Cumberland,Carlisle,2025,1,Vehicle crime,21,500000,0.42
+Cumberland,Carlisle,2025,2,Drugs,41,500000,0.8200000000000001
+Cumberland,Carlisle,2025,2,Robbery,5,500000,0.1
+Cumberland,Carlisle,2025,2,Vehicle crime,16,500000,0.32
+Cumberland,Carlisle,2025,3,Drugs,38,500000,0.76
+Cumberland,Carlisle,2025,3,Robbery,3,500000,0.060000000000000005
+Cumberland,Carlisle,2025,3,Vehicle crime,37,500000,0.74
+Cumberland,Carlisle,2025,4,Drugs,23,500000,0.46
+Cumberland,Carlisle,2025,4,Robbery,6,500000,0.12000000000000001
+Cumberland,Carlisle,2025,4,Vehicle crime,17,500000,0.34
+Cumberland,Carlisle,2025,5,Drugs,42,500000,0.84
+Cumberland,Carlisle,2025,5,Robbery,2,500000,0.04
+Cumberland,Carlisle,2025,5,Vehicle crime,10,500000,0.2
+Cumberland,Carlisle,2025,6,Drugs,61,500000,1.22
+Cumberland,Carlisle,2025,6,Robbery,4,500000,0.08
+Cumberland,Carlisle,2025,6,Vehicle crime,15,500000,0.3
+Cumberland,Carlisle,2025,7,Drugs,39,500000,0.78
+Cumberland,Carlisle,2025,7,Robbery,2,500000,0.04
+Cumberland,Carlisle,2025,7,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Carlisle,2025,8,Drugs,47,500000,0.94
+Cumberland,Carlisle,2025,8,Robbery,3,500000,0.060000000000000005
+Cumberland,Carlisle,2025,8,Vehicle crime,17,500000,0.34
+Cumberland,Carlisle,2025,9,Drugs,34,500000,0.68
+Cumberland,Carlisle,2025,9,Robbery,5,500000,0.1
+Cumberland,Carlisle,2025,9,Vehicle crime,15,500000,0.3
+Cumberland,Carlisle,2025,10,Drugs,46,500000,0.92
+Cumberland,Carlisle,2025,10,Robbery,1,500000,0.02
+Cumberland,Carlisle,2025,10,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Carlisle,2025,11,Drugs,49,500000,0.98
+Cumberland,Carlisle,2025,11,Vehicle crime,18,500000,0.36
+Cumberland,Copeland,2022,12,Drugs,16,500000,0.32
+Cumberland,Copeland,2022,12,Robbery,1,500000,0.02
+Cumberland,Copeland,2022,12,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,Copeland,2023,1,Drugs,7,500000,0.13999999999999999
+Cumberland,Copeland,2023,1,Vehicle crime,19,500000,0.38
+Cumberland,Copeland,2023,2,Drugs,8,500000,0.16
+Cumberland,Copeland,2023,2,Vehicle crime,8,500000,0.16
+Cumberland,Copeland,2023,3,Drugs,15,500000,0.3
+Cumberland,Copeland,2023,3,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Copeland,2023,4,Drugs,9,500000,0.18
+Cumberland,Copeland,2023,4,Robbery,3,500000,0.060000000000000005
+Cumberland,Copeland,2023,4,Vehicle crime,11,500000,0.22
+Cumberland,Copeland,2023,5,Drugs,6,500000,0.12000000000000001
+Cumberland,Copeland,2023,5,Vehicle crime,9,500000,0.18
+Cumberland,Copeland,2023,6,Drugs,6,500000,0.12000000000000001
+Cumberland,Copeland,2023,6,Robbery,3,500000,0.060000000000000005
+Cumberland,Copeland,2023,6,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,Copeland,2023,7,Drugs,10,500000,0.2
+Cumberland,Copeland,2023,7,Vehicle crime,5,500000,0.1
+Cumberland,Copeland,2023,8,Drugs,17,500000,0.34
+Cumberland,Copeland,2023,8,Vehicle crime,11,500000,0.22
+Cumberland,Copeland,2023,9,Drugs,23,500000,0.46
+Cumberland,Copeland,2023,9,Vehicle crime,4,500000,0.08
+Cumberland,Copeland,2023,10,Drugs,14,500000,0.27999999999999997
+Cumberland,Copeland,2023,10,Robbery,2,500000,0.04
+Cumberland,Copeland,2023,10,Vehicle crime,5,500000,0.1
+Cumberland,Copeland,2023,11,Drugs,12,500000,0.24000000000000002
+Cumberland,Copeland,2023,11,Robbery,1,500000,0.02
+Cumberland,Copeland,2023,11,Vehicle crime,10,500000,0.2
+Cumberland,Copeland,2023,12,Drugs,13,500000,0.26
+Cumberland,Copeland,2023,12,Robbery,2,500000,0.04
+Cumberland,Copeland,2023,12,Vehicle crime,5,500000,0.1
+Cumberland,Copeland,2024,1,Drugs,10,500000,0.2
+Cumberland,Copeland,2024,1,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,Copeland,2024,2,Drugs,16,500000,0.32
+Cumberland,Copeland,2024,2,Robbery,1,500000,0.02
+Cumberland,Copeland,2024,2,Vehicle crime,9,500000,0.18
+Cumberland,Copeland,2024,3,Drugs,7,500000,0.13999999999999999
+Cumberland,Copeland,2024,3,Vehicle crime,3,500000,0.060000000000000005
+Cumberland,Copeland,2024,4,Drugs,10,500000,0.2
+Cumberland,Copeland,2024,4,Vehicle crime,4,500000,0.08
+Cumberland,Copeland,2024,5,Drugs,18,500000,0.36
+Cumberland,Copeland,2024,5,Robbery,2,500000,0.04
+Cumberland,Copeland,2024,5,Vehicle crime,2,500000,0.04
+Cumberland,Copeland,2024,6,Drugs,12,500000,0.24000000000000002
+Cumberland,Copeland,2024,6,Robbery,1,500000,0.02
+Cumberland,Copeland,2024,6,Vehicle crime,13,500000,0.26
+Cumberland,Copeland,2024,7,Drugs,12,500000,0.24000000000000002
+Cumberland,Copeland,2024,7,Robbery,2,500000,0.04
+Cumberland,Copeland,2024,7,Vehicle crime,11,500000,0.22
+Cumberland,Copeland,2024,8,Drugs,22,500000,0.44
+Cumberland,Copeland,2024,8,Robbery,1,500000,0.02
+Cumberland,Copeland,2024,8,Vehicle crime,8,500000,0.16
+Cumberland,Copeland,2024,9,Drugs,10,500000,0.2
+Cumberland,Copeland,2024,9,Vehicle crime,5,500000,0.1
+Cumberland,Copeland,2024,10,Drugs,12,500000,0.24000000000000002
+Cumberland,Copeland,2024,10,Robbery,1,500000,0.02
+Cumberland,Copeland,2024,10,Vehicle crime,4,500000,0.08
+Cumberland,Copeland,2024,11,Drugs,14,500000,0.27999999999999997
+Cumberland,Copeland,2024,11,Vehicle crime,10,500000,0.2
+Cumberland,Copeland,2024,12,Drugs,15,500000,0.3
+Cumberland,Copeland,2024,12,Robbery,2,500000,0.04
+Cumberland,Copeland,2024,12,Vehicle crime,1,500000,0.02
+Cumberland,Copeland,2025,1,Drugs,18,500000,0.36
+Cumberland,Copeland,2025,1,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Copeland,2025,2,Drugs,20,500000,0.4
+Cumberland,Copeland,2025,2,Vehicle crime,8,500000,0.16
+Cumberland,Copeland,2025,3,Drugs,22,500000,0.44
+Cumberland,Copeland,2025,3,Robbery,2,500000,0.04
+Cumberland,Copeland,2025,3,Vehicle crime,2,500000,0.04
+Cumberland,Copeland,2025,4,Drugs,18,500000,0.36
+Cumberland,Copeland,2025,4,Robbery,1,500000,0.02
+Cumberland,Copeland,2025,4,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Copeland,2025,5,Drugs,26,500000,0.52
+Cumberland,Copeland,2025,5,Robbery,2,500000,0.04
+Cumberland,Copeland,2025,5,Vehicle crime,5,500000,0.1
+Cumberland,Copeland,2025,6,Drugs,13,500000,0.26
+Cumberland,Copeland,2025,6,Robbery,1,500000,0.02
+Cumberland,Copeland,2025,6,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Copeland,2025,7,Drugs,10,500000,0.2
+Cumberland,Copeland,2025,7,Vehicle crime,8,500000,0.16
+Cumberland,Copeland,2025,8,Drugs,11,500000,0.22
+Cumberland,Copeland,2025,8,Robbery,1,500000,0.02
+Cumberland,Copeland,2025,8,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,Copeland,2025,9,Drugs,11,500000,0.22
+Cumberland,Copeland,2025,9,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Copeland,2025,10,Drugs,18,500000,0.36
+Cumberland,Copeland,2025,10,Vehicle crime,5,500000,0.1
+Cumberland,Copeland,2025,11,Drugs,14,500000,0.27999999999999997
+Cumberland,Copeland,2025,11,Robbery,1,500000,0.02
+Cumberland,Copeland,2025,11,Vehicle crime,4,500000,0.08
+Cumberland,County Durham,2023,4,Drugs,1,500000,0.02
+Cumberland,County Durham,2024,8,Drugs,2,500000,0.04
+Cumberland,Craven,2025,5,Drugs,1,500000,0.02
+Cumberland,Eden,2022,12,Drugs,8,500000,0.16
+Cumberland,Eden,2022,12,Vehicle crime,4,500000,0.08
+Cumberland,Eden,2023,1,Drugs,11,500000,0.22
+Cumberland,Eden,2023,1,Robbery,1,500000,0.02
+Cumberland,Eden,2023,1,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Eden,2023,2,Drugs,6,500000,0.12000000000000001
+Cumberland,Eden,2023,2,Robbery,1,500000,0.02
+Cumberland,Eden,2023,2,Vehicle crime,8,500000,0.16
+Cumberland,Eden,2023,3,Drugs,15,500000,0.3
+Cumberland,Eden,2023,3,Robbery,1,500000,0.02
+Cumberland,Eden,2023,3,Vehicle crime,8,500000,0.16
+Cumberland,Eden,2023,4,Drugs,6,500000,0.12000000000000001
+Cumberland,Eden,2023,4,Robbery,2,500000,0.04
+Cumberland,Eden,2023,4,Vehicle crime,8,500000,0.16
+Cumberland,Eden,2023,5,Drugs,15,500000,0.3
+Cumberland,Eden,2023,5,Robbery,1,500000,0.02
+Cumberland,Eden,2023,5,Vehicle crime,5,500000,0.1
+Cumberland,Eden,2023,6,Drugs,30,500000,0.6
+Cumberland,Eden,2023,6,Robbery,2,500000,0.04
+Cumberland,Eden,2023,6,Vehicle crime,5,500000,0.1
+Cumberland,Eden,2023,7,Drugs,10,500000,0.2
+Cumberland,Eden,2023,7,Robbery,2,500000,0.04
+Cumberland,Eden,2023,7,Vehicle crime,11,500000,0.22
+Cumberland,Eden,2023,8,Drugs,17,500000,0.34
+Cumberland,Eden,2023,8,Vehicle crime,3,500000,0.060000000000000005
+Cumberland,Eden,2023,9,Drugs,12,500000,0.24000000000000002
+Cumberland,Eden,2023,9,Robbery,1,500000,0.02
+Cumberland,Eden,2023,9,Vehicle crime,9,500000,0.18
+Cumberland,Eden,2023,10,Drugs,18,500000,0.36
+Cumberland,Eden,2023,10,Robbery,1,500000,0.02
+Cumberland,Eden,2023,10,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,Eden,2023,11,Drugs,22,500000,0.44
+Cumberland,Eden,2023,11,Vehicle crime,16,500000,0.32
+Cumberland,Eden,2023,12,Drugs,28,500000,0.5599999999999999
+Cumberland,Eden,2023,12,Robbery,1,500000,0.02
+Cumberland,Eden,2023,12,Vehicle crime,8,500000,0.16
+Cumberland,Eden,2024,1,Drugs,10,500000,0.2
+Cumberland,Eden,2024,1,Robbery,1,500000,0.02
+Cumberland,Eden,2024,1,Vehicle crime,11,500000,0.22
+Cumberland,Eden,2024,2,Drugs,19,500000,0.38
+Cumberland,Eden,2024,2,Robbery,3,500000,0.060000000000000005
+Cumberland,Eden,2024,2,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Eden,2024,3,Drugs,15,500000,0.3
+Cumberland,Eden,2024,3,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Eden,2024,4,Drugs,14,500000,0.27999999999999997
+Cumberland,Eden,2024,4,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Eden,2024,5,Drugs,11,500000,0.22
+Cumberland,Eden,2024,5,Robbery,3,500000,0.060000000000000005
+Cumberland,Eden,2024,5,Vehicle crime,3,500000,0.060000000000000005
+Cumberland,Eden,2024,6,Drugs,37,500000,0.74
+Cumberland,Eden,2024,6,Robbery,1,500000,0.02
+Cumberland,Eden,2024,6,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,Eden,2024,7,Drugs,16,500000,0.32
+Cumberland,Eden,2024,7,Robbery,3,500000,0.060000000000000005
+Cumberland,Eden,2024,7,Vehicle crime,10,500000,0.2
+Cumberland,Eden,2024,8,Drugs,94,500000,1.88
+Cumberland,Eden,2024,8,Vehicle crime,10,500000,0.2
+Cumberland,Eden,2024,9,Drugs,18,500000,0.36
+Cumberland,Eden,2024,9,Robbery,1,500000,0.02
+Cumberland,Eden,2024,9,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Eden,2024,10,Drugs,24,500000,0.48000000000000004
+Cumberland,Eden,2024,10,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,Eden,2024,11,Drugs,15,500000,0.3
+Cumberland,Eden,2024,11,Vehicle crime,9,500000,0.18
+Cumberland,Eden,2024,12,Drugs,23,500000,0.46
+Cumberland,Eden,2024,12,Robbery,1,500000,0.02
+Cumberland,Eden,2024,12,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,Eden,2025,1,Drugs,28,500000,0.5599999999999999
+Cumberland,Eden,2025,1,Robbery,1,500000,0.02
+Cumberland,Eden,2025,1,Vehicle crime,5,500000,0.1
+Cumberland,Eden,2025,2,Drugs,26,500000,0.52
+Cumberland,Eden,2025,2,Robbery,2,500000,0.04
+Cumberland,Eden,2025,2,Vehicle crime,3,500000,0.060000000000000005
+Cumberland,Eden,2025,3,Drugs,10,500000,0.2
+Cumberland,Eden,2025,4,Drugs,17,500000,0.34
+Cumberland,Eden,2025,4,Robbery,1,500000,0.02
+Cumberland,Eden,2025,4,Vehicle crime,5,500000,0.1
+Cumberland,Eden,2025,5,Drugs,23,500000,0.46
+Cumberland,Eden,2025,5,Robbery,1,500000,0.02
+Cumberland,Eden,2025,5,Vehicle crime,4,500000,0.08
+Cumberland,Eden,2025,6,Drugs,39,500000,0.78
+Cumberland,Eden,2025,6,Robbery,1,500000,0.02
+Cumberland,Eden,2025,6,Vehicle crime,10,500000,0.2
+Cumberland,Eden,2025,7,Drugs,21,500000,0.42
+Cumberland,Eden,2025,7,Robbery,1,500000,0.02
+Cumberland,Eden,2025,7,Vehicle crime,10,500000,0.2
+Cumberland,Eden,2025,8,Drugs,30,500000,0.6
+Cumberland,Eden,2025,8,Robbery,2,500000,0.04
+Cumberland,Eden,2025,8,Vehicle crime,3,500000,0.060000000000000005
+Cumberland,Eden,2025,9,Drugs,14,500000,0.27999999999999997
+Cumberland,Eden,2025,9,Robbery,1,500000,0.02
+Cumberland,Eden,2025,9,Vehicle crime,4,500000,0.08
+Cumberland,Eden,2025,10,Drugs,17,500000,0.34
+Cumberland,Eden,2025,10,Vehicle crime,1,500000,0.02
+Cumberland,Eden,2025,11,Drugs,19,500000,0.38
+Cumberland,Eden,2025,11,Vehicle crime,9,500000,0.18
+Cumberland,Kirklees,2025,3,Vehicle crime,1,500000,0.02
+Cumberland,Lancaster,2022,12,Drugs,1,500000,0.02
+Cumberland,Lancaster,2023,1,Drugs,1,500000,0.02
+Cumberland,Lancaster,2023,5,Drugs,4,500000,0.08
+Cumberland,Lancaster,2023,7,Vehicle crime,1,500000,0.02
+Cumberland,Lancaster,2023,11,Drugs,1,500000,0.02
+Cumberland,Lancaster,2024,1,Drugs,2,500000,0.04
+Cumberland,Lancaster,2024,2,Vehicle crime,1,500000,0.02
+Cumberland,Lancaster,2024,8,Vehicle crime,2,500000,0.04
+Cumberland,Lancaster,2024,9,Drugs,1,500000,0.02
+Cumberland,Lancaster,2024,10,Drugs,2,500000,0.04
+Cumberland,Lancaster,2024,11,Vehicle crime,2,500000,0.04
+Cumberland,Lancaster,2024,12,Vehicle crime,4,500000,0.08
+Cumberland,Lancaster,2025,1,Drugs,1,500000,0.02
+Cumberland,Lancaster,2025,3,Drugs,1,500000,0.02
+Cumberland,Lancaster,2025,5,Vehicle crime,1,500000,0.02
+Cumberland,Liverpool,2023,5,Drugs,1,500000,0.02
+Cumberland,Northumberland,2025,4,Drugs,1,500000,0.02
+Cumberland,Northumberland,2025,5,Drugs,1,500000,0.02
+Cumberland,Northumberland,2025,7,Robbery,1,500000,0.02
+Cumberland,Northumberland,2025,8,Robbery,2,500000,0.04
+Cumberland,Northumberland,2025,10,Drugs,1,500000,0.02
+Cumberland,Oldham,2023,3,Vehicle crime,1,500000,0.02
+Cumberland,Sheffield,2023,6,Vehicle crime,1,500000,0.02
+Cumberland,Sheffield,2024,3,Vehicle crime,1,500000,0.02
+Cumberland,South Lakeland,2022,12,Drugs,17,500000,0.34
+Cumberland,South Lakeland,2022,12,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,South Lakeland,2023,1,Drugs,17,500000,0.34
+Cumberland,South Lakeland,2023,1,Robbery,3,500000,0.060000000000000005
+Cumberland,South Lakeland,2023,1,Vehicle crime,5,500000,0.1
+Cumberland,South Lakeland,2023,2,Drugs,21,500000,0.42
+Cumberland,South Lakeland,2023,2,Vehicle crime,11,500000,0.22
+Cumberland,South Lakeland,2023,3,Drugs,18,500000,0.36
+Cumberland,South Lakeland,2023,3,Vehicle crime,11,500000,0.22
+Cumberland,South Lakeland,2023,4,Drugs,19,500000,0.38
+Cumberland,South Lakeland,2023,4,Robbery,1,500000,0.02
+Cumberland,South Lakeland,2023,4,Vehicle crime,11,500000,0.22
+Cumberland,South Lakeland,2023,5,Drugs,16,500000,0.32
+Cumberland,South Lakeland,2023,5,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2023,5,Vehicle crime,13,500000,0.26
+Cumberland,South Lakeland,2023,6,Drugs,32,500000,0.64
+Cumberland,South Lakeland,2023,6,Robbery,5,500000,0.1
+Cumberland,South Lakeland,2023,6,Vehicle crime,15,500000,0.3
+Cumberland,South Lakeland,2023,7,Drugs,22,500000,0.44
+Cumberland,South Lakeland,2023,7,Robbery,1,500000,0.02
+Cumberland,South Lakeland,2023,7,Vehicle crime,5,500000,0.1
+Cumberland,South Lakeland,2023,8,Drugs,27,500000,0.5399999999999999
+Cumberland,South Lakeland,2023,8,Robbery,1,500000,0.02
+Cumberland,South Lakeland,2023,8,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,South Lakeland,2023,9,Drugs,33,500000,0.66
+Cumberland,South Lakeland,2023,9,Robbery,3,500000,0.060000000000000005
+Cumberland,South Lakeland,2023,9,Vehicle crime,8,500000,0.16
+Cumberland,South Lakeland,2023,10,Drugs,25,500000,0.5
+Cumberland,South Lakeland,2023,10,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2023,10,Vehicle crime,9,500000,0.18
+Cumberland,South Lakeland,2023,11,Drugs,28,500000,0.5599999999999999
+Cumberland,South Lakeland,2023,11,Robbery,1,500000,0.02
+Cumberland,South Lakeland,2023,11,Vehicle crime,7,500000,0.13999999999999999
+Cumberland,South Lakeland,2023,12,Drugs,38,500000,0.76
+Cumberland,South Lakeland,2023,12,Robbery,4,500000,0.08
+Cumberland,South Lakeland,2023,12,Vehicle crime,18,500000,0.36
+Cumberland,South Lakeland,2024,1,Drugs,26,500000,0.52
+Cumberland,South Lakeland,2024,1,Robbery,4,500000,0.08
+Cumberland,South Lakeland,2024,1,Vehicle crime,10,500000,0.2
+Cumberland,South Lakeland,2024,2,Drugs,22,500000,0.44
+Cumberland,South Lakeland,2024,2,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2024,2,Vehicle crime,26,500000,0.52
+Cumberland,South Lakeland,2024,3,Drugs,27,500000,0.5399999999999999
+Cumberland,South Lakeland,2024,3,Robbery,4,500000,0.08
+Cumberland,South Lakeland,2024,3,Vehicle crime,5,500000,0.1
+Cumberland,South Lakeland,2024,4,Drugs,39,500000,0.78
+Cumberland,South Lakeland,2024,4,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2024,4,Vehicle crime,21,500000,0.42
+Cumberland,South Lakeland,2024,5,Drugs,32,500000,0.64
+Cumberland,South Lakeland,2024,5,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,South Lakeland,2024,6,Drugs,36,500000,0.72
+Cumberland,South Lakeland,2024,6,Robbery,3,500000,0.060000000000000005
+Cumberland,South Lakeland,2024,6,Vehicle crime,18,500000,0.36
+Cumberland,South Lakeland,2024,7,Drugs,43,500000,0.86
+Cumberland,South Lakeland,2024,7,Robbery,4,500000,0.08
+Cumberland,South Lakeland,2024,7,Vehicle crime,9,500000,0.18
+Cumberland,South Lakeland,2024,8,Drugs,30,500000,0.6
+Cumberland,South Lakeland,2024,8,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,South Lakeland,2024,9,Drugs,24,500000,0.48000000000000004
+Cumberland,South Lakeland,2024,9,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2024,9,Vehicle crime,11,500000,0.22
+Cumberland,South Lakeland,2024,10,Drugs,24,500000,0.48000000000000004
+Cumberland,South Lakeland,2024,10,Robbery,1,500000,0.02
+Cumberland,South Lakeland,2024,10,Vehicle crime,11,500000,0.22
+Cumberland,South Lakeland,2024,11,Drugs,23,500000,0.46
+Cumberland,South Lakeland,2024,11,Robbery,1,500000,0.02
+Cumberland,South Lakeland,2024,11,Vehicle crime,9,500000,0.18
+Cumberland,South Lakeland,2024,12,Drugs,27,500000,0.5399999999999999
+Cumberland,South Lakeland,2024,12,Vehicle crime,8,500000,0.16
+Cumberland,South Lakeland,2025,1,Drugs,33,500000,0.66
+Cumberland,South Lakeland,2025,1,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2025,1,Vehicle crime,18,500000,0.36
+Cumberland,South Lakeland,2025,2,Drugs,20,500000,0.4
+Cumberland,South Lakeland,2025,2,Vehicle crime,8,500000,0.16
+Cumberland,South Lakeland,2025,3,Drugs,20,500000,0.4
+Cumberland,South Lakeland,2025,3,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2025,3,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,South Lakeland,2025,4,Drugs,25,500000,0.5
+Cumberland,South Lakeland,2025,4,Robbery,3,500000,0.060000000000000005
+Cumberland,South Lakeland,2025,4,Vehicle crime,12,500000,0.24000000000000002
+Cumberland,South Lakeland,2025,5,Drugs,16,500000,0.32
+Cumberland,South Lakeland,2025,5,Vehicle crime,16,500000,0.32
+Cumberland,South Lakeland,2025,6,Drugs,28,500000,0.5599999999999999
+Cumberland,South Lakeland,2025,6,Robbery,1,500000,0.02
+Cumberland,South Lakeland,2025,6,Vehicle crime,5,500000,0.1
+Cumberland,South Lakeland,2025,7,Drugs,21,500000,0.42
+Cumberland,South Lakeland,2025,7,Robbery,3,500000,0.060000000000000005
+Cumberland,South Lakeland,2025,7,Vehicle crime,10,500000,0.2
+Cumberland,South Lakeland,2025,8,Drugs,19,500000,0.38
+Cumberland,South Lakeland,2025,8,Robbery,2,500000,0.04
+Cumberland,South Lakeland,2025,8,Vehicle crime,14,500000,0.27999999999999997
+Cumberland,South Lakeland,2025,9,Drugs,15,500000,0.3
+Cumberland,South Lakeland,2025,9,Vehicle crime,6,500000,0.12000000000000001
+Cumberland,South Lakeland,2025,10,Drugs,23,500000,0.46
+Cumberland,South Lakeland,2025,10,Vehicle crime,13,500000,0.26
+Cumberland,South Lakeland,2025,11,Drugs,30,500000,0.6
+Cumberland,South Lakeland,2025,11,Robbery,3,500000,0.060000000000000005
+Cumberland,South Lakeland,2025,11,Vehicle crime,11,500000,0.22
+Cumberland,South Oxfordshire,2024,1,Vehicle crime,1,500000,0.02
+Cumberland,South Ribble,2024,6,Robbery,1,500000,0.02
+Cumberland,St. Helens,2024,3,Vehicle crime,1,500000,0.02
+Cumberland,Warwick,2023,4,Vehicle crime,1,500000,0.02
+Cumberland,Wigan,2025,4,Vehicle crime,1,500000,0.02
+Cumberland,Wyre,2022,12,Drugs,1,500000,0.02
+Cumberland,NA,2025,2,Drugs,1,500000,0.02
